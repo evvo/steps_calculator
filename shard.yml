@@ -1,0 +1,13 @@
+name: steps_calculator
+version: 0.1.0
+
+authors:
+  - Evtimiy Mihaylov <evo@vaupe.com>
+
+targets:
+  steps_calculator:
+    main: src/steps_calculator.cr
+
+crystal: 0.34.0
+
+license: MIT
